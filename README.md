@@ -42,7 +42,7 @@
 
 - 👨‍💻 All of my projects are available at [supun's workspace](http:nayan-ag.vercel.app)
 
-- 💬 Ask me about **Java, Data Strutures & Algorithm, ReactJS, ThreeJS**
+- 💬 Ask me about **Java, Data Strutures & Algorithm, ReactJS**
 
 - 📫 How to reach me **nayan.agarwal.2022@gmail.com**
 
@@ -51,10 +51,26 @@
 - ⚡ Fun fact **I think I'm funny**
 
 <br>
+
+<!-- Connect With Me  -->
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nayan-agarwal-46b1a9234/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
-</p>
+<div style="display: flex; justify-content: space-around; align-items: center;">
+
+ <!-- Linkedin -->
+ <a href="https://linkedin.com/in/nayan-agarwal-46b1a9234/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+
+<!-- Geek For Geeks -->
+<a href="https://auth.geeksforgeeks.org/user/nayanagar14je/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
+
+<!-- Hackerrank -->
+<a href="https://www.hackerrank.com/profile/Nayan_Ag_2024" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" /></a>
+
+<!-- Leetcode -->   
+<a href="https://leetcode.com/nayan0403/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" /></a>
+</div>
+
+
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
