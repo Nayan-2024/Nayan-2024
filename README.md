@@ -111,7 +111,7 @@
 <!-- Activity Graph -->
 <h3 align="left">Activity:</h3>
 
-![Nayan-202's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayan-2024&custom_title=Supun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Nayan-202's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nayan-2024&custom_title=Nayan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 <br><br>
 
 <!-- Line Break -->
